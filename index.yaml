@@ -3,12 +3,22 @@ entries:
   pine:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-31T01:01:03.9107901+08:00"
+    created: "2022-02-12T21:39:00.9017039+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 90ec27623620949afccd15bee89a455c4dd1b9fcda23bebff5d6e90e63175444
+    name: pine
+    type: application
+    urls:
+    - https://yaohao9.github.io/helm-chart/pine-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-12T21:39:00.8989271+08:00"
     description: A Helm chart for Kubernetes
     digest: 7e26ca570fa65c38d7f65ff9a1a0dca3fba7537e048bed113e06364a350ef718
     name: pine
     type: application
     urls:
-    - https://yaohao9.github.com/helm-chart/pine-0.1.0.tgz
+    - https://yaohao9.github.io/helm-chart/pine-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-31T01:01:03.9107901+08:00"
+generated: "2022-02-12T21:39:00.896777+08:00"
