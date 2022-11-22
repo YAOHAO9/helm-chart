@@ -3,12 +3,12 @@ entries:
   pine:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-13T22:24:40.0424804+08:00"
+    created: "2022-11-22T11:06:01.780363+08:00"
     description: A Helm chart for Kubernetes
-    digest: 7c605336bb2273ab29be216a447e726238daa26cca0a211e11c2cae4d8cd3f35
+    digest: 68946f1906456f54e5c8d7dbe7c7de3867f45d2ed439d4021150e1a7f7bbcf1c
     name: pine
     type: application
     urls:
     - https://yaohao9.github.io/helm-chart/pine-0.3.6.tgz
     version: 0.3.6
-generated: "2022-02-13T22:24:40.0414177+08:00"
+generated: "2022-11-22T11:06:01.778109+08:00"
