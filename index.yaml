@@ -3,7 +3,7 @@ entries:
   pine:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-22T11:12:56.129641+08:00"
+    created: "2022-11-22T03:51:41.983533491Z"
     description: A Helm chart for Kubernetes
     digest: b3b09c2dbfc02e346542464ce51107f0bb8a89b50c506284fe91f53309f84a02
     name: pine
@@ -14,7 +14,17 @@ entries:
   yaohaof:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-22T11:12:56.130708+08:00"
+    created: "2022-11-22T03:51:41.985009589Z"
+    description: A Helm chart for YAOHAOF
+    digest: 4af0ab6380cde32b2d7beffa3d065e4f061ce53351e019308a9031313b579798
+    name: yaohaof
+    type: application
+    urls:
+    - https://yaohao9.github.io/helm-chart/yaohaof-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-11-22T03:51:41.98467649Z"
     description: A Helm chart for YAOHAOF
     digest: 08985298a4634e31cb92b8a43037bcbe9c48e57e4c3caf5e9cef32e5c06e15e2
     name: yaohaof
@@ -24,7 +34,7 @@ entries:
     version: 0.3.9
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-22T11:12:56.130367+08:00"
+    created: "2022-11-22T03:51:41.98432619Z"
     description: A Helm chart for YAOHAOF
     digest: e8e8073b113cc8cd634dfdf92657cff1112b836d3586954e736569d74dcd1eb3
     name: yaohaof
@@ -34,7 +44,7 @@ entries:
     version: 0.3.8
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-11-22T11:12:56.130017+08:00"
+    created: "2022-11-22T03:51:41.983955491Z"
     description: A Helm chart for YAOHAOF
     digest: 8725b7431b47c48dfdd39e1867435a8d80a696f1e94ed82ff3b3d254453b452b
     name: yaohaof
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://yaohao9.github.io/helm-chart/yaohaof-0.3.7.tgz
     version: 0.3.7
-generated: "2022-11-22T11:12:56.129055+08:00"
+generated: "2022-11-22T03:51:41.982986892Z"
